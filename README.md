@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://octodex.github.com/images/carlostocat.gif" height="160px" width="160px"> </p>
+<p align="center"> <img src="https://octodex.github.com/images/octofez.png" height="160px" width="160px"> </p>
 
 <!-- OctoCat -->
 
