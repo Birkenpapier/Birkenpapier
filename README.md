@@ -8,3 +8,4 @@ Hey! I'm Kevin, a 22 year old R&D engineer working out of northern Germany. I'm 
 
 <!-- ## My Projects :pencil: -->
 <a href=""><img src="https://github-readme-stats.vercel.app/api/?username=Birkenpapier&theme=onedark&show_icons=true&count_private=true" align="right"></a>
+<a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Birkenpapier&theme=onedark&langs_count=7" align="right"></a>
