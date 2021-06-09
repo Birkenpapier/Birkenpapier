@@ -12,7 +12,6 @@ Hey! I'm Kevin, a 22 year old R&D engineer working out of northern Germany. I'm 
 
 \
 \
-\
 
 ## &#x1f4c8; GitHub Stats
 
