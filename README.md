@@ -1,8 +1,10 @@
-<p align="center"> <img src="https://octodex.github.com/images/octofez.png" height="160px" width="160px"> </p>
+<p align="center"> <img src="docs/cute_dog.gif" width="700px"> </p>
 
-<!-- OctoCat -->
+<!-- Cute Dog -->
 
-## About Me :wave:
+# Hello there! <img src="docs/wave.gif" width="30px">
+
+## About Me 🧍
 <a href="https://de.linkedin.com/in/kevin-peivareh-752922b0" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 Hey! I'm Kevin, a 22 year old R&D engineer working out of northern Germany. I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here!
 
