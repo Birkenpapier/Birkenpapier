@@ -31,4 +31,10 @@ Hey! I'm Kevin, a 22 year old R&D engineer working out of northern Germany. I'm 
 
 <a href="https://github.com/Birkenpapier/OpenT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Birkenpapier&repo=OpenT&theme=onedark" />
-</a>    
+</a>
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Birkenpapier/count.svg" />
+</p>
