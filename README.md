@@ -2,7 +2,7 @@
 
 <!-- Cute Dog -->
 
-# Hello there! <img src="docs/wave.gif" width="5px">
+# Hello there! <img src="docs/wave.gif" width="5px" width="5px">
 
 ## About Me 🧍
 <a href="https://de.linkedin.com/in/kevin-peivareh-752922b0" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
