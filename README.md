@@ -1,19 +1,14 @@
-<p align="center"> <img src="docs/cute_dog.gif" width="700px"> </p>
-
-<!-- Cute Dog -->
-
-# Hello there! 👋 <!--<img src="docs/wave.gif" width="5px" width="5px">-->
+# Hello there! <img src="docs/wave.gif" width="30px">
 
 ## About Me 🧍
 <a href="https://de.linkedin.com/in/kevin-peivareh-752922b0" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-Hey! I'm Kevin, a 23 year old R&D engineer working out of northern Germany. I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here!
 
-<!-- ## My Projects :pencil: -->
-<!-- a href=""><img src="https://github-readme-stats.vercel.app/api/?username=Birkenpapier&theme=onedark&show_icons=true&count_private=true" align="right"></a>
-<a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Birkenpapier&theme=onedark&langs_count=7" align="right"></a-->
+I'm Kevin, a 24 year old `{R&D}` engineer working out of Northern Germany. Besides that I am the founder of 
+<a href="https://dioptify.com" target="_blank"><img src="docs/dioptify.png" width="125px"></a>. 
+I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here! <br />
+If you want to collaborate or are searching for a purpose of life like me, hit me up at [email](mailto:kevin.peivareh@dioptify.com).
 
-
-<br><br>
+<br /><br />
 
 ## &#x1f4c8; GitHub Stats
 
@@ -25,16 +20,14 @@ Hey! I'm Kevin, a 23 year old R&D engineer working out of northern Germany. I'm 
   <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/?username=Birkenpapier&theme=onedark&show_icons=true&count_private=true" alt="Birkenpapier's GitHub Stats" />
 </a>
 
-<a href="https://github.com/Birkenpapier/FileTransfer">
-  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=Birkenpapier&repo=FileTransfer&theme=onedark" />
-</a>
-
-<a href="https://github.com/Birkenpapier/OpenT">
-  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=Birkenpapier&repo=OpenT&theme=onedark" />
-</a>
-
+<br />
 
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Birkenpapier/count.svg" />
+  Visitors since 1999: &nbsp
+  <img src="https://profile-counter.glitch.me/Birkenpapier/count.svg" width="150px"/>
 </p>
+
+<br />
+
+<!-- Cute Dog -->
+<p align="center">may this dog bless your day -> <img src="docs/cute_dog.gif" width="350px"> </p>
