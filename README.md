@@ -6,7 +6,7 @@
 I'm Kevin, a 24 year old `{R&D}` engineer working out of Northern Germany. Besides that I am the founder of 
 <a href="https://dioptify.com" target="_blank"><img src="docs/dioptify.png" width="125px"></a>. 
 I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here! <br />
-If you want to collaborate or are searching for a purpose of life like me, hit me up at [email](mailto:kevin.peivareh@dioptify.com).
+If you want to collaborate or are searching for a purpose of life like me, hit me up at [email](mailto:kevin@peivareh.com).
 
 <br /><br />
 
