@@ -3,7 +3,7 @@
 ## About Me 🧍
 <a href="https://de.linkedin.com/in/kevin-peivareh-752922b0" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
-I'm Kevin, a 24 year old `{R&D}` engineer working out of Northern Germany. Besides that I am the founder of 
+I'm Kevin, a 25 year old `{R&D}` engineer and entrepreneur working out of Northern Germany. Besides that I am the founder of 
 <a href="https://dioptify.com" target="_blank"><img src="docs/dioptify.png" width="125px"></a>. 
 I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here! <br />
 If you want to collaborate or are searching for a purpose of life like me, hit me up at [email](mailto:kevin@peivareh.com).
