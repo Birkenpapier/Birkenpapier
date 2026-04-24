@@ -69,10 +69,5 @@ If you're searching for purpose — or just a good engineer — [drop me a line]
 
 <br />
 
-<p align="center">
-  Visitors since 1999 &nbsp;
-  <img src="https://profile-counter.glitch.me/Birkenpapier/count.svg" width="150px"/>
-</p>
-
 <!-- Cute Dog stays. Always. -->
 <p align="center">may this dog bless your day → <img src="docs/cute_dog.gif" width="350px"></p>
